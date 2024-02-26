@@ -67,6 +67,8 @@ Initialized empty Git repository in C:\Users\user\Desktop\git_instruction/.git/
 
 Это значит, что **репозиторий** был успешно создан, но пока что пуст.
 
+## Проект в Visual Studio Code
+![alt text](open_folder.png)
 
 
 
