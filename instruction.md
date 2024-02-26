@@ -68,7 +68,15 @@ Initialized empty Git repository in C:\Users\user\Desktop\git_instruction/.git/
 Это значит, что **репозиторий** был успешно создан, но пока что пуст.
 
 ## Проект в Visual Studio Code
+**Visual Studio Code** можно скачать по [ссылке](https://code.visualstudio.com)
+
+Нужно открыть нашу созданную папку git_instruction.
+Для этого зайти в меню **File** и выбрать **Open Folder...**
 ![alt text](open_folder.png)
+
+![alt text](new_file.png)
+
+
 
 
 
